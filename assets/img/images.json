@@ -1,0 +1,79 @@
+[
+  {
+    "file": "assets/img/composite-manhole-cover.jpg",
+    "width": 952,
+    "height": 1288,
+    "orientation": "portrait",
+    "kb": 95
+  },
+  {
+    "file": "assets/img/gate-driveway-channel-drain.jpg",
+    "width": 1288,
+    "height": 868,
+    "orientation": "landscape",
+    "kb": 143
+  },
+  {
+    "file": "assets/img/heavy-duty-gully-grating.jpg",
+    "width": 784,
+    "height": 1568,
+    "orientation": "portrait",
+    "kb": 178
+  },
+  {
+    "file": "assets/img/kitchen-gloss-mirror.jpg",
+    "width": 588,
+    "height": 868,
+    "orientation": "portrait",
+    "kb": 34
+  },
+  {
+    "file": "assets/img/kitchen-shaker-white.jpg",
+    "width": 644,
+    "height": 980,
+    "orientation": "portrait",
+    "kb": 52
+  },
+  {
+    "file": "assets/img/kitchen-wall-oak.jpg",
+    "width": 728,
+    "height": 560,
+    "orientation": "landscape",
+    "kb": 33
+  },
+  {
+    "file": "assets/img/padel-court-channel-drain.jpg",
+    "width": 1288,
+    "height": 952,
+    "orientation": "landscape",
+    "kb": 267
+  },
+  {
+    "file": "assets/img/pool-overflow-grating-grey.jpg",
+    "width": 784,
+    "height": 1372,
+    "orientation": "portrait",
+    "kb": 203
+  },
+  {
+    "file": "assets/img/pool-overflow-grating-white.jpg",
+    "width": 896,
+    "height": 1204,
+    "orientation": "portrait",
+    "kb": 210
+  },
+  {
+    "file": "assets/img/track-edge-channel-drain.jpg",
+    "width": 1288,
+    "height": 756,
+    "orientation": "landscape",
+    "kb": 209
+  },
+  {
+    "file": "assets/img/vanity-basin-unit.jpg",
+    "width": 812,
+    "height": 1288,
+    "orientation": "portrait",
+    "kb": 98
+  }
+]
